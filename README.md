@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiruvv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...cyber security
+- 🌱 I’m currently learning ...JAVA/Linux
+- 💞️ I’m looking to collaborate on ...hacker
 - 📫 How to reach me ... there is no way
 
 <!---
